@@ -32,7 +32,6 @@ pluginbase==1.0.0
 psycopg2==2.8.6
 pybind11==2.6.1
 Pygments==2.7.2
-PyJWT==1.7.1
 pylatexenc==2.8
 pyparsing==2.4.7
 python-dateutil==1.5
